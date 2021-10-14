@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a:link{
+    color: #f00;
+    text-decoration: none;
+}
+a:hover{
+    color: #009;
+    text-decoration: underline;
+}
+a:active{
+    color: #ff0;
+    text-decoration: underline;
+    background: violet;
+}
